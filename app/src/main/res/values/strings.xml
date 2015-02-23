@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JATransit</string>
+    <string name="title_activity">JA Transit</string>
+    <string name="action_settings">Details</string>
+
+</resources>
